@@ -1,1 +1,3 @@
 hello git
+这是 feature1 的内容
+这是 feature2 的内容
